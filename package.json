@@ -1,0 +1,23 @@
+{
+  "name": "zenn-conect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirko-san/zenn-conect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirko-san/zenn-conect/issues"
+  },
+  "homepage": "https://github.com/mirko-san/zenn-conect#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.93"
+  }
+}
