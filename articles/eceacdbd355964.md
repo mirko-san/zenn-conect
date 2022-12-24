@@ -3,7 +3,7 @@ title: "JavaScript で Photoshop 操作の自動化をする"
 emoji: "📸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Photoshop"]
-published: false
+published: true
 ---
 
 この記事は [mirko-san のアドベントカレンダー Advent Calendar 2022](https://adventar.org/calendars/8051) の 12月 24日の記事です。
