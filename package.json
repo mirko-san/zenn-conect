@@ -19,6 +19,6 @@
   "homepage": "https://github.com/mirko-san/zenn-conect#readme",
   "dependencies": {
     "prettier": "^3.2.5",
-    "zenn-cli": "^0.1.153"
+    "zenn-cli": "^0.1.159"
   }
 }
